@@ -26,11 +26,11 @@ To run this project, you need to have the following installed:
    git clone https://github.com/Nathanchepkonga/python_fundamentals.git
 2. **Navigate into the project directory:**
    ```bash
-cd python_fundamentals
-
+   cd python_fundamentals
+ 
 3. **Run the code:**
    ```bash 
- python filename.py
+    python filename.py
 
 
 Replace filename.py with the name of the Python file you want to run.
